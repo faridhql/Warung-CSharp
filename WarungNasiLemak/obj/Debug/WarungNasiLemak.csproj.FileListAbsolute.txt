@@ -1,0 +1,10 @@
+D:\C#\WarungNasiLemak\WarungNasiLemak\bin\Debug\WarungNasiLemak.exe.config
+D:\C#\WarungNasiLemak\WarungNasiLemak\bin\Debug\WarungNasiLemak.exe
+D:\C#\WarungNasiLemak\WarungNasiLemak\bin\Debug\WarungNasiLemak.pdb
+D:\C#\WarungNasiLemak\WarungNasiLemak\obj\Debug\WarungNasiLemak.csproj.AssemblyReference.cache
+D:\C#\WarungNasiLemak\WarungNasiLemak\obj\Debug\WarungNasiLemak.Form1.resources
+D:\C#\WarungNasiLemak\WarungNasiLemak\obj\Debug\WarungNasiLemak.Properties.Resources.resources
+D:\C#\WarungNasiLemak\WarungNasiLemak\obj\Debug\WarungNasiLemak.csproj.GenerateResource.cache
+D:\C#\WarungNasiLemak\WarungNasiLemak\obj\Debug\WarungNasiLemak.csproj.CoreCompileInputs.cache
+D:\C#\WarungNasiLemak\WarungNasiLemak\obj\Debug\WarungNasiLemak.exe
+D:\C#\WarungNasiLemak\WarungNasiLemak\obj\Debug\WarungNasiLemak.pdb
