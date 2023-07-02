@@ -26,5 +26,10 @@ namespace WarungNasiLemak
         {
             this.WindowState = FormWindowState.Minimized;
         }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+            panel1.BackColor = Color.FromArgb(150, 0, 0, 0);
+        }
     }
 }
