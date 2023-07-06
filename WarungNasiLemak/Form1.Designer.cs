@@ -68,13 +68,14 @@ namespace WarungNasiLemak
             // 
             // button3
             // 
-            this.button3.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button3.BackgroundImage")));
+            this.button3.BackColor = System.Drawing.Color.Black;
             this.button3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.button3.Location = new System.Drawing.Point(1246, 57);
+            this.button3.Location = new System.Drawing.Point(1263, 57);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(62, 55);
+            this.button3.Size = new System.Drawing.Size(45, 41);
             this.button3.TabIndex = 2;
-            this.button3.UseVisualStyleBackColor = true;
+            this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // panel1
             // 

@@ -31,5 +31,10 @@ namespace WarungNasiLemak
         {
             panel1.BackColor = Color.FromArgb(150, 0, 0, 0);
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            button3.BackColor = Color.FromArgb(150, 0, 0, 0);
+        }
     }
 }
