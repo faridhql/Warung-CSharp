@@ -8,3 +8,4 @@ D:\C#\WarungNasiLemak\WarungNasiLemak\obj\Debug\WarungNasiLemak.csproj.GenerateR
 D:\C#\WarungNasiLemak\WarungNasiLemak\obj\Debug\WarungNasiLemak.csproj.CoreCompileInputs.cache
 D:\C#\WarungNasiLemak\WarungNasiLemak\obj\Debug\WarungNasiLemak.exe
 D:\C#\WarungNasiLemak\WarungNasiLemak\obj\Debug\WarungNasiLemak.pdb
+D:\C#\WarungNasiLemak\WarungNasiLemak\obj\Debug\WarungNasiLemak.FormListMenu.resources

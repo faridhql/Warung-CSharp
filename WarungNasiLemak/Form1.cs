@@ -17,24 +17,32 @@ namespace WarungNasiLemak
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            Application.Exit();
-        }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            this.WindowState = FormWindowState.Minimized;
-        }
+
+    
 
         private void panel1_Paint(object sender, PaintEventArgs e)
         {
             panel1.BackColor = Color.FromArgb(150, 0, 0, 0);
         }
 
-        private void button3_Click(object sender, EventArgs e)
+     
+
+        private void Form1_Load(object sender, EventArgs e)
         {
-            button3.BackColor = Color.FromArgb(150, 0, 0, 0);
+
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            FormListMenu form2 = new FormListMenu();
+            form2.ShowDialog();
+            
+                
+
+            
+        }
+
+        
     }
 }
